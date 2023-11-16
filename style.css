@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: darkblue;
+color: white;
+
+
+}
+header a {
+color: white;
+}
+h1{
+color: orange;
+
+
+}
+footer p{
+border: 1px solid gray;
+}
+nav{
+    border: 3px solid green;
+border-radius:3px;
+}
+nav a{
+text-decoration: none;
+color: gray;
+padding: 10px;
+}
+.box{
+background-color: greenyellow;
+border: 3px solid white;
+}
+h2{
+color: blue;
+}
